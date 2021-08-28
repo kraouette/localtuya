@@ -74,7 +74,22 @@
                     "fan_oscillating_control": "Fan Oscillating Control",
                     "fan_speed_low": "Fan Low Speed Setting",
                     "fan_speed_medium": "Fan Medium Speed Setting",
-                    "fan_speed_high": "Fan High Speed Setting"
+                    "fan_speed_high": "Fan High Speed Setting",
+                    "powergo_dp": "Powergo DP (5)",
+                    "idle_status_value": "Idle Status (standby,sleep)",
+                    "returning_status_value": "Returning Status (chargego=",
+                    "docked_status_value": "Docked Status (charging,charge_done)",
+                    "battery_dp": "Battery status DP (6)",
+                    "mode_dp": "Mode DP (3)",
+                    "modes": "Modes list (wall_follow,chargego,smart)",
+                    "return_mode": "Return home mode (chargego)",
+                    "fan_speed_dp": "Fan speeds DP (111)",
+                    "fan_speeds": "Fan speeds list (dry,wet)",
+                    "clean_time_dp": "Clean Time DP (17)",
+                    "clean_area_dp": "Clean Area DP (16)",
+                    "locate_dp": "Locate DP (13)",
+                    "paused_state": "Pause state (pause)",
+                    "power_dp" : "Power DP (2)"
                 }
             }
         }
@@ -126,7 +141,22 @@
                     "fan_oscillating_control": "Fan Oscillating Control",
                     "fan_speed_low": "Fan Low Speed Setting",
                     "fan_speed_medium": "Fan Medium Speed Setting",
-                    "fan_speed_high": "Fan High Speed Setting"
+                    "fan_speed_high": "Fan High Speed Setting",
+                    "powergo_dp": "Powergo DP (5)",
+                    "idle_status_value": "Idle Status (standby,sleep)",
+                    "returning_status_value": "Returning Status (chargego=",
+                    "docked_status_value": "Docked Status (charging,charge_done)",
+                    "battery_dp": "Battery status DP (6)",
+                    "mode_dp": "Mode DP (3)",
+                    "modes": "Modes list (wall_follow,chargego,smart)",
+                    "return_mode": "Return home mode (chargego)",
+                    "fan_speed_dp": "Fan speeds DP (111)",
+                    "fan_speeds": "Fan speeds list (dry,wet)",
+                    "clean_time_dp": "Clean Time DP (17)",
+                    "clean_area_dp": "Clean Area DP (16)",
+                    "locate_dp": "Locate DP (13)",
+                    "paused_state": "Pause state (pause)",
+                    "power_dp" : "Power DP (2)"
                 }
             },
             "yaml_import": {
