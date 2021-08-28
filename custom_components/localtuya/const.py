@@ -68,5 +68,3 @@ DOMAIN = "localtuya"
 PLATFORMS = ["binary_sensor", "cover", "fan", "light", "sensor", "switch", "vacuum"]
 
 TUYA_DEVICE = "tuya_device"
-
-#vacuum
